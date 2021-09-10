@@ -1,7 +1,7 @@
 # Sokoban
 Sokoban
 
-Jeu Sokoban développé avec la librairie ncurse.
+Jeu Sokoban développé avec la librairie ncurse et le langage C.
 
 BUT DU JEU:
 
