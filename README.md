@@ -14,7 +14,7 @@ LES COMMANDES DE JEU:
 
 HOW TO USE IT ?
 
-Pour construire les binares:
+Pour construire le binare:
 
 $> make
 
